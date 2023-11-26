@@ -1,6 +1,7 @@
 # This Creates a special matrix 
 # It will be used to store the inverse and matrix data
- 
+# the latest commit(SHA is for comments ) the SHA submitted is for the code file creation
+# and is correct , kindly refer to the commit history
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
